@@ -1,0 +1,12 @@
+.booking-section {
+  padding: 40px;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+.booking-form input, .booking-form select, .booking-form textarea {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+}

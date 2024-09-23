@@ -1,0 +1,11 @@
+.our-story {
+  padding: 50px;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.story-images img {
+  width: 45%;
+  margin: 10px;
+  border-radius: 8px;
+}
