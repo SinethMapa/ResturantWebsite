@@ -1,6 +1,8 @@
 .hero-section {
   text-align: center;
-  background: url('path_to_your_image_directory/hero.jpg.png') no-repeat center center;
+  .hero {
+    background-image: url('./images/hero.jpg.png');
+  }  
   background-size: cover;
   height: 100vh;
   display: flex;
